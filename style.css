@@ -111,3 +111,50 @@
     font-size: 28px;
     font-family: cosmic,sans-serif;
 }
+.keypoint h2{
+    color: black;
+    font-size:40px;
+    text-align: center;
+    padding: 20px;
+}
+.keypoint .key_container{
+    display: flex;
+
+}
+.keypoint .key_container .key_content{
+    width: 40%;
+    float: left;
+    padding: 20px;
+
+}
+.keypoint .key_container .key_content li{
+    margin: 10px;
+    padding: 10px;
+    border-left: 2px solid orange;
+    color: black;
+    text-align: left;
+    font-family: cosmic,sans-serif;
+    box-shadow: 0px 3px 65px;
+}    
+.texti{
+    padding: 50px;
+
+}
+.texti h2{
+    color:black;
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.texti .texti_container{
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: center;
+}
+.texti .texti_container .item{
+    width: 20px;
+    padding: 10px;
+  
+}
+    
